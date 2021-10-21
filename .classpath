@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="images/|auteur/|carte math/|carte math/|bouttons/|auteur/|images/|carte maths/|carte maths/|boutons/|carte maths/|auteur/|boutons/|carte maths/|images/|carte_maths/|carte-maths/|carte-maths/|carte_maths/|images/|images/|images/|boutons/|boutons/|boutons/|boutons/|images/|boutons/|images/|images/|images/|images/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/auteur"/>
+	<classpathentry kind="src" path="src/boutons"/>
+	<classpathentry kind="src" path="src/images"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="library/postgresql-42.2.9.jar"/>
+	<classpathentry kind="lib" path="library/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="library/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
